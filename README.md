@@ -1,0 +1,1 @@
+This project is a recipe site that has been made with only simple html 
